@@ -25,7 +25,7 @@ indicator_code: The code corresponding to various indicators (e.g., disbursement
 debt: The value of debt in USD associated with a given indicator for a country.
 
 ## Source
-This project is based on the DataCamp project "Analyze International Debt Statistics". You can access the original project here.
+This project is based on the DataCamp project "Analyze International Debt Statistics". You can access the original project here: https://app.datacamp.com/learn/projects/1906.
 
 ## Conclusion
 This analysis will provide insights into how countries manage their debt, which countries are making the highest repayments, and how multilateral creditors impact global debt dynamics.
